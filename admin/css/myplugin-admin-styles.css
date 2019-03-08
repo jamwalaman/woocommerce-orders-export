@@ -1,0 +1,27 @@
+/* -- Admin styling for MY-PLUGIN by Aman Jamwal ------- */
+
+#orders_table {
+    background-color: #F2FEFF;
+}
+
+#orders_table tbody {
+    vertical-align: top;
+}
+
+#orders_table thead tr {
+    background-color: #C2BCFF;
+    color: #fff;
+}
+
+#orders_table, #orders_table th, #orders_table td {
+  border: 2px solid #808687;
+  border-collapse: collapse;
+}
+
+#orders_table th {
+    padding: 9px;
+}
+
+#orders_table td {
+    padding: 7px;
+}
